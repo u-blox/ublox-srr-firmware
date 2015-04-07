@@ -2,10 +2,10 @@ ODIN-W16 requires specific firmware for use with WLAN and Bluetooth.
 These files are required in order to comply with regulatory requirements.
 
 File:    wl1273-odin-w16.bin
-SVN rev: r13458, 2014-02-25 12:54:33
+SVN rev: r13458
 FW rev:  6.3.10.100.135
 
 File:    TIInit_7.6.15_odin-w16.bts
-SVN rev: r10762, 2014-12-12 12:59:50
+SVN rev: r10974
 TI  rev: HCI Version: 4.0 (0x6)  Revision: 0x0
-         LMP Version: 4.0 (0x6)  Subversion: 0x1f5a
+         LMP Version: 4.0 (0x6)  Subversion: 0x1f3f
